@@ -1,2 +1,3 @@
 # dstr
-Developer machine dust remover. Ok we leave some more but remove plenty of your old rubbish.
+
+Developer machine dust remover. OK we leave some but remove plenty of your old rubbish.
